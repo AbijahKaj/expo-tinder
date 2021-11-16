@@ -11,13 +11,26 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@expo-google-fonts/montserrat": "^0.2.0",
     "@expo/samples": "2.1.1",
-    "expo": "^32.0.0",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/viewpager": "5.0.11",
+    "@react-navigation/bottom-tabs": "^5.10.0",
+    "@react-navigation/native": "^6.0.0",
+    "@react-navigation/stack": "^5.10.0",
+    "expo": "~43.0.0",
+    "expo-app-loading": "~1.2.1",
+    "expo-font": "~10.0.3",
+    "expo-linear-gradient": "~10.0.3",
+    "expo-status-bar": "~1.1.0",
+    "react": "17.0.1",
+    "react-native": "0.64.3",
     "react-native-deck-swiper": "1.5.25",
     "react-native-elements": "^1.1.0",
-    "react-navigation": "^3.0.9"
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-navigation": "^4.4.4"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
